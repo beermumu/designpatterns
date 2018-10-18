@@ -1,3 +1,5 @@
+package DuckDesign;
+
 public class GooseAdapter implements Quackable {
     Goose goose;
 

@@ -1,3 +1,5 @@
+package DuckDesign;
+
 public class PegeonAdapter implements Quackable{
     Pegeon pegeon;
 

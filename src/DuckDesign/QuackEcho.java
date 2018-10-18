@@ -1,3 +1,5 @@
+package DuckDesign;
+
 public class QuackEcho implements Quackable {
     Quackable duck;
 

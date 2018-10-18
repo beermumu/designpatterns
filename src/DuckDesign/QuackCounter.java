@@ -1,3 +1,5 @@
+package DuckDesign;
+
 public class QuackCounter implements Quackable {
     Quackable duck;
     static int numberOfQuacks;
